@@ -20,7 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ford19982541&show_icons=true" alt="ford19982541" /></p>
 
 <p align="center">
-<a href="https://fb.com/https://www.facebook.com/ford.zii1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/ford.zii1/" height="30" width="30" /></a>
+<a href="https://fb.com/ford.zii1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/ford.zii1/" height="30" width="30" /></a>
 <a href="https://instagram.com/ford_zii.nmg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ford_zii.nmg" height="30" width="30" /></a>
 <a href="https://medium.com/@ford19982541" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ford19982541" height="30" width="30" /></a>
 </p>
